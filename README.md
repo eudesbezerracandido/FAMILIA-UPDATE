@@ -7,3 +7,5 @@
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>Charlie é uma menina aventureira e cheia de imaginação, que embarca em uma viagem mágica para desvendar o mistério por trás de um ovo que surgiu em sua cidade.</info>
 </item>
+
+
