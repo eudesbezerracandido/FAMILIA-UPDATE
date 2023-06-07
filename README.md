@@ -1,5 +1,14 @@
 # FAMILIA-UPDATE
 
+
+<item>
+<title>[COLOR silver][B] CAMINHO PARA LIBERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e00e27f65a42725e7ff40a230c1acb7643670185</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4c9rgq7pDR7R4i1H9UrUD9lWcce.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Fugindo dos nazistas, Rolf e seu pai ficam presos no sul da França. A jovem pastora Nuria se ofereceu para guiá-los por um caminho secreto pelos Pirineus, mas o pai de Rolf é preso no meio do caminho. As duas crianças conseguirão escapar sozinhas?</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] UMA VIAGEM INCRÍVEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a30590e15606545d1bb79a6eb90de4b8bdebba1</link>
