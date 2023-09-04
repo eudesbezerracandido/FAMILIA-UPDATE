@@ -1,6 +1,16 @@
 # FAMILIA-UPDATE
 
 
+
+
+<item>
+<title>[COLOR silver][B] A MENINA QUE ACREDITAVA EM MILAGRES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46962a16b96ed5a8a8be7eadf395f8aafc51c807</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jhVnf6QmiRujRx2cYIZOnI8cPZ9.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando Sara ouve um pregador dizer que a fé pode mover montanhas, ela começa a orar. De repente, as pessoas em sua cidade são curadas misteriosamente! Mas a fama logo cobra seu preço - a família de Sara pode salvá-la antes que seja tarde demais?</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] CAMINHO PARA LIBERDADE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e00e27f65a42725e7ff40a230c1acb7643670185</link>
