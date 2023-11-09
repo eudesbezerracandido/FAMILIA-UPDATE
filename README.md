@@ -3,6 +3,19 @@
 
 
 
+
+
+
+
+
+<item>
+<title>[COLOR silver][B] O MENINO É O TIGRE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c7b2b8f6facb55da508fc3e2afaa8fe2d4952a9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1MUFa3ZgAgjKvGtwO3qcMjKEGPF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O órfão Balmani resgata o filhote de tigre Mukti de caçadores cruéis e, juntos, eles partem em uma aventura para encontrar um lar seguro para o tigre. Balmani e Mukti enfrentarão ameaças dos caçadores que estão determinados a recapturar o filhote, e terão que sobreviver a desafios enquanto desenvolvem um forte vínculo de confiança e afeto.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A MENINA QUE ACREDITAVA EM MILAGRES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:46962a16b96ed5a8a8be7eadf395f8aafc51c807</link>
